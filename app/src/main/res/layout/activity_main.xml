@@ -7,7 +7,7 @@
     android:touchscreenBlocksFocus="false"
     android:transitionGroup="false"
     android:background="@android:drawable/"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity" >
 
     <Button
         android:id="@+id/button"
